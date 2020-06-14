@@ -24,7 +24,7 @@ To maintain the vertical rhythm, it has been applied a **Typographic scale** as 
 
 Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point! 
 
-## Author
+## Author 
 
 ### Jacopo Rabolini
 
